@@ -18,7 +18,7 @@ customize:
         avatar: css/images/wechatlogo.jpeg
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Toddy
-        author_title: Web Developer & Designer
+        author_title: Web Front-End Developer
         location: ChengDu, China
         follow: https://github.com/toddywang/
     highlight: monokai
